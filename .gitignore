@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Local dev / HA snapshots
+*.log
+*.zip
+ha_dump/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

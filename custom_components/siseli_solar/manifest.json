@@ -1,0 +1,12 @@
+{
+  "domain": "siseli_solar",
+  "name": "雷零 / 四色 光伏逆变器",
+  "codeowners": ["@lclGithub"],
+  "config_flow": true,
+  "documentation": "https://github.com/lclGithub/ha-siseli-solar",
+  "integration_type": "hub",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/lclGithub/ha-siseli-solar/issues",
+  "requirements": [],
+  "version": "1.4.0"
+}
