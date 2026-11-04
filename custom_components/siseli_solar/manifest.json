@@ -1,6 +1,7 @@
 {
   "domain": "siseli_solar",
   "name": "雷零 / 四色 光伏逆变器",
+  "after_dependencies": ["energy", "http", "lovelace"],
   "codeowners": ["@lclGithub"],
   "config_flow": true,
   "documentation": "https://github.com/lclGithub/ha-siseli-solar",
